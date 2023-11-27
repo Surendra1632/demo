@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:0px;
+   
+
+}
+h1{
+    text-align: center ;
+    border:solid;
+    border-color: blue;
+    background-color: aqua; 
+  
+
+    width: 100%;
+}
+p{
+    color: blue;
+}

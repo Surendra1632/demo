@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.anime{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(208, 22, 22);
+    
+}
+
+
+@keyframes abhishek{
+    left: 0px;
+}
+to{
+    left: 60%;
+}
